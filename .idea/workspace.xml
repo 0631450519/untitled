@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272320f0-8013-4ae6-abb9-dbc44b0bf2b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_class.rb" afterPath="$PROJECT_DIR$/test_class.rb" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +20,7 @@
     <SUITE FILE_PATH="coverage/untitled@test_a_add_user_to_project__untitled.coverage" NAME="test_a_add_user_to_project: untitled Coverage Results" MODIFIED="1505924161958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/untitled@test_logout_user__untitled.coverage" NAME="test_logout_user: untitled Coverage Results" MODIFIED="1506354492224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/untitled@test_bug_creation__untitled.coverage" NAME="test_bug_creation: untitled Coverage Results" MODIFIED="1506359370134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
-    <SUITE FILE_PATH="coverage/untitled@Run_test__SmokeTest___untitled.coverage" NAME="Run test 'SmokeTest': untitled Coverage Results" MODIFIED="1506359842548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
+    <SUITE FILE_PATH="coverage/untitled@Run_test__SmokeTest___untitled.coverage" NAME="Run test 'SmokeTest': untitled Coverage Results" MODIFIED="1506417086837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/untitled@test_add_user_to_project__untitled.coverage" NAME="test_add_user_to_project: untitled Coverage Results" MODIFIED="1506358976674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/untitled@test_create_project__untitled.coverage" NAME="test_create_project: untitled Coverage Results" MODIFIED="1506354932661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
     <SUITE FILE_PATH="coverage/untitled@test_feature_creation__untitled.coverage" NAME="test_feature_creation: untitled Coverage Results" MODIFIED="1506359398946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
@@ -58,8 +53,8 @@
       <file leaf-file-name="test_class.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_class.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="290">
+              <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -494,8 +489,16 @@
       <workItem from="1505837644256" duration="60000" />
       <workItem from="1505837722709" duration="179000" />
       <workItem from="1505837919312" duration="1337000" />
-      <workItem from="1505895662972" duration="8264000" />
+      <workItem from="1505895662972" duration="8681000" />
     </task>
+    <task id="LOCAL-00001" summary="refactoring">
+      <created>1506416999148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506416999148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -505,8 +508,8 @@
     <history-entry file="Run_test_'SmokeTest'__untitled - 2017.09.25 at 20h 18m 37s.xml">
       <configuration name="Run test 'SmokeTest': untitled" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="test_bug_creation__untitled - 2017.09.25 at 20h 09m 37s.xml">
-      <configuration name="test_bug_creation: untitled" configurationId="TestUnitRunConfigurationType" />
+    <history-entry file="Run_test_'SmokeTest'__untitled - 2017.09.26 at 12h 12m 57s.xml">
+      <configuration name="Run test 'SmokeTest': untitled" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
     <history-entry file="test_edit_users_role__untitled - 2017.09.25 at 20h 11m 56s.xml">
       <configuration name="test_edit_users_role: untitled" configurationId="TestUnitRunConfigurationType" />
@@ -531,7 +534,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90481000" />
+    <option name="totallyTimeSpent" value="90898000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,9 +547,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="23" width="1900" height="979" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16105263" sideWeight="0.49168646" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16105263" sideWeight="0.49168646" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="3" y="258" width="1360" height="211" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -578,6 +580,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -857,8 +863,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_class.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        <state relative-caret-position="290">
+          <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
           <folding />
         </state>
       </provider>
